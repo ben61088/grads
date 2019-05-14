@@ -4,9 +4,8 @@
 
 Open VSCode and start a new terminal (Ctrl-shift-' or in nav terminal -> new terminal) . In the terminal clone the github repo by typing:
 ```
-$ git clone https://github.com/ben61088/grads.git
+$ git clone https://github.com/ben61088/grads.git .
 ```
-
 Running on a server:
 ```
 $ python -m http.server 8000
