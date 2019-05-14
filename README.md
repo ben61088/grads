@@ -7,11 +7,16 @@ Open VSCode and start a new terminal (Ctrl-shift-' or in nav terminal -> new ter
 $ git clone https://github.com/ben61088/grads.git
 ```
 
+Running on a server:
+```
+$ python -m http.server 8000
+```
+
 ## Project Ideas
 * Personal portfolio
 * Social media profile
 * Calendar
-* cv
+* CV
 
 ## Requirements
 * Headers, paragraphs
